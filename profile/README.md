@@ -1,7 +1,7 @@
 # Ozark Cybersecurity Research Group (OCRG)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OCRG/.github/main/profile/ocrg-banner.png" alt="OCRG Banner" width="100%"/>
+  <img src="ocrg-banner.png" alt="OCRG Banner" width="100%"/>
 </div>
 
 ## Mission

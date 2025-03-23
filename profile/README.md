@@ -3,7 +3,7 @@
 </div>
 
 ## Mission
-The Ozark Cybersecurity Research Group (OCRG) is dedicated to understanding and mitigating cyber threats through pioneering research in advanced detection and security techniques. Our work leverages machine learning and artificial intelligence to develop novel approaches for robust threat detection, with a special focus on overcoming challenges such as cover‑source mismatch in steganalysis and enhancing cybersecurity through self‑supervised learning frameworks.
+The Ozark Cybersecurity Research Group (OCRG) is dedicated to understanding and mitigating cyber threats through pioneering research in advanced detection and security techniques. We leverage machine learning and artificial intelligence to develop novel approaches for robust threat detection—addressing challenges such as cover‑source mismatch in steganalysis and enhancing cybersecurity through self‑supervised learning frameworks. In parallel with our research initiatives, we actively contribute to the open source community by releasing innovative tools and frameworks, collaborating on projects, and sharing resources that empower organizations to strengthen their security measures.
 
 ## Current Research Focus
 - **Advanced Steganalysis:**  

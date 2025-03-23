@@ -16,7 +16,7 @@ The Ozark Cybersecurity Research Group (OCRG) is dedicated to understanding and 
 ## Research Roadmap
 - **Short-Term Goals:**  
   - Finalize the development and pretraining of our self‑supervised steganalysis framework.  
-  - Execute extensive hyperparameter tuning and ablation studies (e.g., evaluating temperature \( \tau \), momentum \( m \), and loss balance \( \lambda \)) to optimize performance.
+  - Execute extensive hyperparameter tuning and ablation studies (e.g., evaluating temperature *τ*, momentum *m*, and loss balance *λ*) to optimize performance.
 - **Medium-Term Goals:**  
   - Integrate our robust steganalysis methods with real‑time threat detection systems and validate them on heterogeneous datasets.
   - Initiate collaborative pilot projects with industry and academic partners to test and refine our approaches in operational environments.

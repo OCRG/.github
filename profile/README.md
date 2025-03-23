@@ -1,26 +1,33 @@
 <div align="center">
   <img src="https://github.com/OCRG/.github/blob/main/profile/ocrg-logo2.png" alt="OCRG Banner" width="100%"/>
-<!-- # Ozark Cybersecurity Research Group (OCRG) -->
 </div>
 
 ## Mission
-The Ozark Cybersecurity Research Group is dedicated to understanding and mitigating cyber threats through pioneering research in steganography and steganalysis. We focus on developing novel techniques for secure communication and detection of hidden information across digital media.
+The Ozark Cybersecurity Research Group (OCRG) is dedicated to understanding and mitigating cyber threats through pioneering research in advanced detection and security techniques. Our work leverages machine learning and artificial intelligence to develop novel approaches for robust threat detection, with a special focus on overcoming challenges such as cover‑source mismatch in steganalysis and enhancing cybersecurity through self‑supervised learning frameworks.
 
 ## Current Research Focus
-We're currently advancing the field of steganography and steganalysis through innovative approaches that combine machine learning, adversarial techniques, and robust detection methods. Our work prioritizes the development of techniques that remain effective across heterogeneous cover-sources and novel embedding methods.
+- **Advanced Steganalysis:**  
+  Developing robust self‑supervised contrastive learning methods to detect hidden threats in digital media, ensuring invariance to diverse cover sources.
+- **Threat Detection & Cybersecurity:**  
+  Creating adaptive machine learning algorithms for identifying, analyzing, and mitigating emerging cyber threats across varied domains.
+- **AI-Based Cybersecurity Tools:**  
+  Designing and deploying end‑to‑end AI frameworks that operate in real time to counteract advanced persistent threats and obfuscate potential attack vectors.
 
-## Research Roadmap (Q1-Q3 2025)
-Our research roadmap prioritizes five key projects by impact and implementability:
+## Research Roadmap
+- **Short-Term Goals:**  
+  - Finalize the development and pretraining of our self‑supervised steganalysis framework.  
+  - Execute extensive hyperparameter tuning and ablation studies (e.g., evaluating temperature \( \tau \), momentum \( m \), and loss balance \( \lambda \)) to optimize performance.
+- **Medium-Term Goals:**  
+  - Integrate our robust steganalysis methods with real‑time threat detection systems and validate them on heterogeneous datasets.
+  - Initiate collaborative pilot projects with industry and academic partners to test and refine our approaches in operational environments.
+- **Long-Term Vision:**  
+  - Expand our portfolio of AI‑based cybersecurity tools to cover a broad spectrum of cyber threats, from steganography to advanced intrusion methods.
+  - Continuously evolve our research agenda by incorporating new techniques, theoretical advances, and ethical guidelines to stay ahead of emerging threats.
 
-1. **Robust Steganalysis via Self-Supervised Contrastive Learning** - Developing framework to overcome cover-source mismatch
-2. **Universal Steganalysis via Adversarial Domain Adaptation** - Creating detection models resilient to variations in cover-sources
-3. **Zero-Shot Steganalysis Using Transferable Representations** - Enabling detection of novel steganographic methods
-4. **Diffusion-Based Steganography for Low-Detectability Embedding** - Implementing advanced embedding using diffusion models
-5. **Hybrid Cryptography-Steganography Integration** - Enhancing security through multi-layer protection
+*Additional research directions will be announced as our team expands and new partnerships develop.*
 
 ## Get Involved
-We welcome collaborations with researchers, cybersecurity professionals, and students interested in advancing the field of information hiding and detection. Reach out to learn more about our current projects or to discuss potential partnerships.
+We welcome collaborations with researchers, cybersecurity professionals, and students passionate about advancing threat detection and cybersecurity. Contact us to learn more about our current projects or to discuss potential partnerships.
 
 ## Contact
 ocrg@brad-jackson.com
-

@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img src="https://github.com/OCRG/.github/blob/main/profile/ocrg-logo.png" alt="OCRG Banner" width="100%"/>
+<!-- # Ozark Cybersecurity Research Group (OCRG) -->
+</div>
 
 ## Mission
 The Ozark Cybersecurity Research Group is dedicated to understanding and mitigating cyber threats through pioneering research in steganography and steganalysis. We focus on developing novel techniques for secure communication and detection of hidden information across digital media.

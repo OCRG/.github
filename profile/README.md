@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OCRG/.github/blob/main/profile/ocrg-logo2.png" alt="OCRG Banner" width="100%"/>
+  <img src="https://github.com/OCRG/.github/blob/main/profile/ocrg-logo3.png" alt="OCRG Banner" width="100%"/>
 </div>
 
 ## Mission

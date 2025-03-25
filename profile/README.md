@@ -2,32 +2,39 @@
   <img src="https://github.com/OCRG/.github/blob/main/profile/ocrg-banner.png" alt="OCRG Banner" width="100%"/>
 </div>
 
+# Ozark Cybersecurity Research Group (OCRG)
+
 ## Mission
-The **Ozark Cybersecurity Research Group (OCRG)** is dedicated to understanding and mitigating cyber threats through pioneering research in advanced detection and security techniques. We leverage machine learning and artificial intelligence to develop novel approaches for robust threat detection—addressing challenges such as cover‑source mismatch in steganalysis and enhancing cybersecurity through self‑supervised learning frameworks. In parallel with our research initiatives, we actively contribute to the open source community by releasing innovative tools and frameworks, collaborating on projects, and sharing resources that empower organizations to strengthen their security measures.
+The **Ozark Cybersecurity Research Group (OCRG)** is dedicated to advancing cybersecurity through innovative research in threat detection and security techniques. We leverage cutting-edge machine learning and AI methodologies to design robust systems for identifying hidden threats, such as steganographic content, and mitigating cyber risks. Our work focuses on creating advanced detection frameworks that are resilient to variations in data sources while being computationally efficient.
 
-## Current Research Focus
+## About Us
+OCRG is in its project initialization phase - we're laying the technical foundation and building our first projects. Our early initiatives include developing prototype frameworks for advanced steganalysis and threat detection using self-supervised contrastive learning techniques. We actively share our progress and collaborate via our GitHub pages and Discord community.
+
+- **GitHub Pages:** [ocrg.github.io](https://ocrg.github.io/)
+- **Discord Community:** [Join our Discord](https://discord.gg/6SDUxJzSdr)
+
+## Our Focus Areas
 - **Advanced Steganalysis:**  
-  Developing robust self‑supervised contrastive learning methods to detect hidden threats in digital media, ensuring invariance to diverse cover sources.
+  Research into self-supervised contrastive learning approaches for detecting hidden data in digital media, focusing on invariance across diverse cover sources.
 - **Threat Detection & Cybersecurity:**  
-  Creating adaptive machine learning algorithms for identifying, analyzing, and mitigating emerging cyber threats across varied domains.
-- **AI-Based Cybersecurity Tools:**  
-  Designing and deploying end‑to‑end AI frameworks that operate in real time to counteract advanced persistent threats and obfuscate potential attack vectors.
-
-## Research Roadmap
-- **Short-Term Goals:**  
-  - Finalize the development and pretraining of our self‑supervised steganalysis framework.  
-  - Execute extensive hyperparameter tuning and ablation studies (e.g., evaluating temperature *τ*, momentum *m*, and loss balance *λ*) to optimize performance.
-- **Medium-Term Goals:**  
-  - Integrate our robust steganalysis methods with real‑time threat detection systems and validate them on heterogeneous datasets.
-  - Initiate collaborative pilot projects with industry and academic partners to test and refine our approaches in operational environments.
-- **Long-Term Vision:**  
-  - Expand our portfolio of AI‑based cybersecurity tools to cover a broad spectrum of cyber threats, from steganography to advanced intrusion methods.
-  - Continuously evolve our research agenda by incorporating new techniques, theoretical advances, and ethical guidelines to stay ahead of emerging threats.
-
-*Additional research directions will be announced as our team expands and new partnerships develop.*
+  Development of adaptive AI frameworks for real-time detection and analysis of emerging cyber threats.
+- **Open Source Collaboration:**  
+  We believe in the power of community and open collaboration - sharing tools, frameworks, and research findings that empower organizations and researchers worldwide.
 
 ## Get Involved
-We welcome collaborations with researchers, cybersecurity professionals, and students passionate about advancing threat detection and cybersecurity. Contact us to learn more about our current projects or to discuss potential partnerships.
+We welcome collaborations from cybersecurity professionals, researchers, and students who are passionate about pushing the boundaries of threat detection. If you are interested in our projects or wish to contribute, please reach out via our Discord or contact us directly.
 
 ## Contact
-ocrg@brad-jackson.com
+For inquiries, collaborations, or more information, please contact us at:
+- **Email:** ocrg@brad-jackson.com
+
+---
+
+### About Brad Jackson
+
+**Brad Jackson**  
+*Applied ML Engineer & Cybersecurity Professional*  
+- **Email:** me@brad-jackson.com  
+- **LinkedIn:** [linkedin.com/in/bradley-jackson-a73a92191](https://linkedin.com/in/bradley-jackson-a73a92191)  
+- **GitHub:** [github.com/iron-hope-shop](https://github.com/iron-hope-shop)  
+- **Website:** [brad-jackson.com](https://brad-jackson.com)

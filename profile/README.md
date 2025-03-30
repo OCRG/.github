@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/OCRG/.github/blob/main/profile/ocrg-banner-030.png" alt="OCRG Banner" width="100%"/>
+  <img src="https://github.com/OCRG/.github/blob/main/profile/ocrg-banner-031.png" alt="OCRG Banner" width="100%"/>
 </div>
 
 # Ozark Cybersecurity Research Group (OCRG)

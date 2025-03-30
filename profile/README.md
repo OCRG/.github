@@ -4,37 +4,44 @@
 
 # Ozark Cybersecurity Research Group (OCRG)
 
-## Mission
-The **Ozark Cybersecurity Research Group (OCRG)** is dedicated to advancing cybersecurity through innovative research in threat detection and security techniques. We leverage cutting-edge machine learning and AI methodologies to design robust systems for identifying hidden threats, such as steganographic content, and mitigating cyber risks. Our work will focus on creating advanced detection frameworks that are resilient to variations in data sources while being computationally efficient.
+## Our Mission
+Ozark Cybersecurity Research Group (OCRG) is an emerging non-profit initiative committed to enhancing digital security and community safety through practical research, the development of targeted open-source solutions, and fostering collaborative innovation.
 
 ## About Us
-OCRG is in its project initialization phase and we are laying the technical foundation and building our first projects. Our early initiatives will include developing prototype frameworks for advanced steganalysis using self-supervised contrastive learning techniques. We will actively share our progress and collaborate via our GitHub pages and Discord community.
+Currently in its foundational stage, OCRG is laying the groundwork to address specific, often underserved, cybersecurity and safety challenges. We operate under core values of **Impact, Integrity, Collaboration, Openness, and Pragmatism**. As we progress towards formal incorporation, our focus is on applying advanced techniques in AI, machine learning, and data analysis to create tangible benefits.
 
-- **GitHub Pages:** [ocrg.github.io](https://ocrg.github.io/)
+- **Project Status:** Pre-incorporation, initial research and development underway.
+- **Website:** [ocrg.github.io](https://ocrg.github.io/)
 - **Discord Community:** [Join our Discord](https://discord.gg/6SDUxJzSdr)
 
-## Our Focus Areas
-- **Advanced Steganalysis:**  
-  Research into self-supervised contrastive learning approaches for detecting hidden data in digital media, focusing on invariance across diverse cover sources.
-- **Threat Detection & Cybersecurity:**  
-  Development of adaptive AI frameworks for real-time detection and analysis of emerging cyber threats.
-- **Open Source Collaboration:**  
-  We believe in the power of community and open collaboration - sharing tools, frameworks, and research findings that empower organizations and researchers worldwide.
+## Current Project Focus Areas
+
+Our initial efforts concentrate on three key areas where we see a distinct need for improved solutions:
+
+1.  **Advanced Steganalysis & Covert Channel Research:**
+    *   Developing and evaluating novel methods for detecting hidden information concealed within digital media (steganography).
+    *   Our research prioritizes robustness against modern generative techniques and diverse transmission channels, aiming to push the boundaries of reliable detection.
+
+2.  **Healthcare Cybersecurity Enhancement:**
+    *   Addressing the unique cybersecurity vulnerabilities faced by healthcare providers, particularly smaller clinics with limited resources.
+    *   We are developing practical resources and potentially training methodologies focused on improving the security posture and data protection practices within these critical environments.
+
+3.  **Public Safety Compliance Technology:**
+    *   Creating efficient open-source tools designed to assist public safety personnel with location-based compliance verification.
+    *   This includes developing technology to streamline processes related to ensuring adherence to regulations such as child safety zone restrictions, aiming for improved accuracy and usability over existing methods.
+
+## Open Source Philosophy
+OCRG is dedicated to open-source principles. We plan to release our tools and frameworks under permissive licenses, encouraging community contribution, transparency, and widespread adoption to maximize positive impact.
 
 ## Get Involved
-We welcome collaborations from cybersecurity professionals, researchers, and students who are passionate about pushing the boundaries of threat detection. If you are interested in our projects or wish to contribute, please reach out via our Discord or contact us directly.
+We are building a community of researchers, developers, cybersecurity professionals, and domain experts interested in contributing to these focus areas. If our mission resonates with you, please connect with us:
+
+-   Join the discussion on our [Discord Server](https://discord.gg/6SDUxJzSdr).
+-   Reach out directly via email for potential collaborations or inquiries.
 
 ## Contact
-For inquiries, collaborations, or more information, please contact us at:
-- **Email:** ocrg@brad-jackson.com
+- **Email:** ocrg@brad-jackson.com *(Provisional Contact)*
+- **Founder:** Brad Jackson ([LinkedIn](https://linkedin.com/in/bradley-jackson-a73a92191), [Personal GitHub](https://github.com/iron-hope-shop), [Website](https://brad-jackson.com))
 
 ---
-
-### About Brad Jackson
-
-**Brad Jackson**  
-*Senior ML & Cybersecurity Professional*  
-- **Email:** me@brad-jackson.com  
-- **LinkedIn:** [linkedin.com/in/bradley-jackson-a73a92191](https://linkedin.com/in/bradley-jackson-a73a92191)  
-- **GitHub:** [github.com/iron-hope-shop](https://github.com/iron-hope-shop)  
-- **Website:** [brad-jackson.com](https://brad-jackson.com)
+*OCRG is actively planning for incorporation as a 501(c)(3) non-profit organization.*

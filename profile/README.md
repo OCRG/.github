@@ -16,19 +16,19 @@ Currently in its foundational stage, OCRG is laying the groundwork to address sp
 
 ## Current Project Focus Areas
 
-Our initial efforts concentrate on three key areas where we see a distinct need for improved solutions:
+Our initial efforts concentrate on two key areas where we see a distinct need for improved solutions:
 
-1.  **Advanced Steganalysis & Covert Channel Research:**
-    *   Developing and evaluating novel methods for detecting hidden information concealed within digital media (steganography).
-    *   Our research prioritizes robustness against modern generative techniques and diverse transmission channels, aiming to push the boundaries of reliable detection.
+1. **Healthcare Cyber Awareness Project (HCAP):**
+   - A comprehensive initiative addressing cybersecurity threats in the healthcare sector through targeted training, risk mitigation, and consulting services.
+   - Focused on reducing breach contributors, improving HIPAA understanding, and equipping underserved healthcare providers.
+   - Developing HHS-informed training modules, actionable security resources, and compliance support tools.
+   - Offering tiered subscription programs and consulting services to ensure accessibility for organizations of all sizes.
 
-2.  **Healthcare Cybersecurity Enhancement:**
-    *   Addressing the unique cybersecurity vulnerabilities faced by healthcare providers, particularly smaller clinics with limited resources.
-    *   We are developing practical resources and potentially training methodologies focused on improving the security posture and data protection practices within these critical environments.
-
-3.  **Public Safety Compliance Technology:**
-    *   Creating efficient open-source tools designed to assist public safety personnel with location-based compliance verification.
-    *   This includes developing technology to streamline processes related to ensuring adherence to regulations such as child safety zone restrictions, aiming for improved accuracy and usability over existing methods.
+2. **Sex Offender Residence Evaluation Tool (SORET):**
+   - A Geographic Information System (GIS) based tool for preliminary screening of sex offender residence restrictions.
+   - Leveraging advanced spatial analysis to assess compliance with legally mandated restricted zones.
+   - Providing clear visualizations and actionable insights through an intuitive web-based interface.
+   - Future enhancements planned for dynamic route analysis and lifestyle evaluation features.
 
 ## Open Source Philosophy
 OCRG is dedicated to open-source principles. We plan to release our tools and frameworks under permissive licenses, encouraging community contribution, transparency, and widespread adoption to maximize positive impact.
@@ -36,8 +36,8 @@ OCRG is dedicated to open-source principles. We plan to release our tools and fr
 ## Get Involved
 We are building a community of researchers, developers, cybersecurity professionals, and domain experts interested in contributing to these focus areas. If our mission resonates with you, please connect with us:
 
--   Join the discussion on our [Discord Server](https://discord.gg/6SDUxJzSdr).
--   Reach out directly via email for potential collaborations or inquiries.
+- Join the discussion on our [Discord Server](https://discord.gg/6SDUxJzSdr).
+- Reach out directly via email for potential collaborations or inquiries.
 
 ## Contact
 - **Email:** ocrg@brad-jackson.com *(Provisional Contact)*

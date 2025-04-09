@@ -18,13 +18,13 @@ Currently in its foundational stage, OCRG is laying the groundwork to address sp
 
 Our initial efforts concentrate on two key areas where we see a distinct need for improved solutions:
 
-1. **Healthcare Cybersecurity Enhancement (HCAP):**
+1. **Healthcare Cyber Awareness Project (HCAP):**
    - A comprehensive initiative addressing cybersecurity threats in the healthcare sector through targeted training, risk mitigation, and consulting services.
    - Focused on reducing breach contributors, improving HIPAA understanding, and equipping underserved healthcare providers.
    - Developing HHS-informed training modules, actionable security resources, and compliance support tools.
    - Offering tiered subscription programs and consulting services to ensure accessibility for organizations of all sizes.
 
-2. **Public Safety Compliance Technology (SORET):**
+2. **Sex Offender Residence Evaluation Tool (SORET):**
    - A Geographic Information System (GIS) based tool for preliminary screening of sex offender residence restrictions.
    - Leveraging advanced spatial analysis to assess compliance with legally mandated restricted zones.
    - Providing clear visualizations and actionable insights through an intuitive web-based interface.

@@ -8,7 +8,8 @@
 Ozark Cybersecurity Research Group (OCRG) is an emerging non-profit initiative committed to enhancing digital security and community safety through practical research, the development of targeted open-source solutions, and fostering collaborative innovation.
 
 ## About Us
-Currently in its foundational stage, OCRG is laying the groundwork to address specific, often underserved, cybersecurity and safety challenges. We operate under core values of **Impact, Integrity, Collaboration, Openness, and Pragmatism**. As we progress towards formal incorporation, our focus is on applying advanced techniques in AI, machine learning, and data analysis to create tangible benefits.
+Currently in its foundational stage, OCRG is laying the groundwork to address specific, often underserved, cybersecurity and safety challenges. We operate under core values of **Impact, Integrity, Collaboration, Openness, and Pragmatism**. 
+// As we progress towards formal incorporation, our focus is on applying advanced techniques in AI, machine learning, and data analysis to create tangible benefits.
 
 - **Project Status:** Pre-incorporation, initial research and development underway.
 - **Website:** [ocrg.github.io](https://ocrg.github.io/)
@@ -24,7 +25,8 @@ Our initial efforts concentrate on two key areas where we see a distinct need fo
    - Developing HHS-informed training modules, actionable security resources, and compliance support tools.
    - Offering tiered subscription programs and consulting services to ensure accessibility for organizations of all sizes.
 
-2. **Sex Offender Residence Evaluation Tool (SORET):**
+   // TODO update name
+2. **Sex Offender Residence Network (SORNET):**
    - A Geographic Information System (GIS) based tool for preliminary screening of sex offender residence restrictions.
    - Leveraging advanced spatial analysis to assess compliance with legally mandated restricted zones.
    - Providing clear visualizations and actionable insights through an intuitive web-based interface.
